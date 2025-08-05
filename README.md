@@ -1,4 +1,6 @@
 Sentiment Analysis Web App
+
+
 A full-stack web application that uses DistilBERT to analyze the sentiment of user input, stores chat history in SQLite, and visualizes sentiment trends with Chart.js.
 Features
 
